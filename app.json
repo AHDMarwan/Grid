@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Grid",
+    "slug": "grid",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "grid",
+    "plugins": ["expo-router"],
+    "android": {
+      "package": "com.ahdmarwan.grid",
+      "edgeToEdgeEnabled": true
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
